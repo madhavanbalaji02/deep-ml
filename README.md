@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-12-21 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-01-07 | [solution](problems/0146-momentum-optimizer) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-01-06 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-01-17 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-12-30 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-01-08 | [solution](problems/0023-softmax-activation-function-implementation) |
