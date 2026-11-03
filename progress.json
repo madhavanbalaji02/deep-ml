@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:21.615Z",
+  "generated_at": "2026-11-03T19:12:23.553Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -559,6 +559,32 @@
       "last_pushed_at": "2026-02-25T03:48:11.572Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-06-19T06:31:55.304Z",
+      "last_pushed_at": "2026-06-19T06:31:55.304Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-06-19T07:30:56.092Z",
+      "last_pushed_at": "2026-06-19T07:30:56.092Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
