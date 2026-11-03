@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 46 problems · 1 labs · 0 math
+**48** solved · 47 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-01-01 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-01-06 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-02-25 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-06-28 | [solution](problems/0094-implement-multi-head-attention) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-12-22 | [solution](problems/0085-positional-encoding-calculator) |
 
 ## Labs
