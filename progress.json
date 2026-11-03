@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:17.623Z",
+  "generated_at": "2026-11-03T19:12:19.591Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -505,6 +505,45 @@
       "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
       "first_solved_at": "2026-01-18T04:34:57.790Z",
       "last_pushed_at": "2026-01-18T04:34:57.790Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-02-23T21:58:03.064Z",
+      "last_pushed_at": "2026-02-23T21:58:03.064Z",
+      "language": "python",
+      "lines": 18
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-02-23T23:24:36.844Z",
+      "last_pushed_at": "2026-02-23T23:24:36.844Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-02-23T23:55:11.218Z",
+      "last_pushed_at": "2026-02-23T23:55:11.218Z",
       "language": "python",
       "lines": 15
     }
