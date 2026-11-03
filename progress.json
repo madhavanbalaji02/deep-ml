@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:23.553Z",
+  "generated_at": "2026-11-03T19:12:25.570Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -583,6 +583,19 @@
       "path": "problems/0121-vector-element-wise-sum",
       "first_solved_at": "2026-06-19T07:30:56.092Z",
       "last_pushed_at": "2026-06-19T07:30:56.092Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-06-23T21:05:12.598Z",
+      "last_pushed_at": "2026-06-23T21:05:12.598Z",
       "language": "python",
       "lines": 6
     }
