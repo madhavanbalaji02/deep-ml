@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:31.446Z",
+  "generated_at": "2026-11-03T19:12:33.444Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -635,6 +635,19 @@
       "path": "problems/0376-kv-cache-for-efficient-autoregressive-attention",
       "first_solved_at": "2026-06-30T14:27:12.145Z",
       "last_pushed_at": "2026-06-30T14:27:12.145Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:381": {
+      "kind": "problem",
+      "id": "381",
+      "title": "Rotary Positional Embeddings (RoPE)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/381",
+      "path": "problems/0381-rotary-positional-embeddings-rope",
+      "first_solved_at": "2026-07-05T23:34:29.109Z",
+      "last_pushed_at": "2026-07-05T23:34:29.109Z",
       "language": "python",
       "lines": 35
     }
