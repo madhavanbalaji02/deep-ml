@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 16 problems · 0 labs · 0 math
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-01-04 | [solution](problems/0239-apply-zero-padding-to-an-image) |
 | [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2025-12-29 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-12-29 | [solution](problems/0083-dot-product-calculator) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2025-12-30 | [solution](problems/0042-implement-relu-activation-function) |
@@ -22,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2025-12-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-12-30 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-21 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-01-04 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-12-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-12-23 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-12-22 | [solution](problems/0053-implement-self-attention-mechanism) |

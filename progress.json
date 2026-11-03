@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:01.185Z",
+  "generated_at": "2026-11-03T19:12:03.063Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -208,6 +208,32 @@
       "last_pushed_at": "2026-01-02T21:02:16.219Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:239": {
+      "kind": "problem",
+      "id": "239",
+      "title": "Apply Zero Padding to an Image",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/239",
+      "path": "problems/0239-apply-zero-padding-to-an-image",
+      "first_solved_at": "2026-01-04T00:41:45.775Z",
+      "last_pushed_at": "2026-01-04T00:41:45.775Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:228": {
+      "kind": "problem",
+      "id": "228",
+      "title": "Budget-Constrained RL Loss",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/228",
+      "path": "problems/0228-budget-constrained-rl-loss",
+      "first_solved_at": "2026-01-04T23:05:38.525Z",
+      "last_pushed_at": "2026-01-04T23:05:38.525Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
