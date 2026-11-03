@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:11:54.952Z",
+  "generated_at": "2026-11-03T19:11:57.103Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,45 @@
       "last_pushed_at": "2025-12-29T10:46:00.052Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-12-30T09:29:43.983Z",
+      "last_pushed_at": "2025-12-30T09:29:43.983Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-12-30T09:31:41.858Z",
+      "last_pushed_at": "2025-12-30T09:31:41.858Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-12-30T09:42:58.728Z",
+      "last_pushed_at": "2025-12-30T09:42:58.728Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
