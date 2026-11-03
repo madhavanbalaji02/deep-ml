@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:11:46.724Z",
+  "generated_at": "2026-11-03T19:11:48.920Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -26,6 +26,32 @@
       "last_pushed_at": "2025-12-21T23:32:37.744Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2025-12-22T14:15:03.851Z",
+      "last_pushed_at": "2025-12-22T14:15:03.851Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2025-12-22T19:13:20.549Z",
+      "last_pushed_at": "2025-12-22T19:13:20.549Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
