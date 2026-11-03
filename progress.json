@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:09.494Z",
+  "generated_at": "2026-11-03T19:12:11.548Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -403,6 +403,71 @@
       "last_pushed_at": "2026-01-07T20:25:18.027Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-01-08T09:01:02.873Z",
+      "last_pushed_at": "2026-01-08T09:01:02.873Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-01-08T09:02:49.876Z",
+      "last_pushed_at": "2026-01-08T09:02:49.876Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-01-08T09:22:12.632Z",
+      "last_pushed_at": "2026-01-08T09:22:12.632Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-01-08T09:41:55.077Z",
+      "last_pushed_at": "2026-01-08T09:41:55.077Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-01-08T09:52:02.653Z",
+      "last_pushed_at": "2026-01-08T09:52:02.653Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
