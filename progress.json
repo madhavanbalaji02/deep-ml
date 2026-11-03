@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:07.296Z",
+  "generated_at": "2026-11-03T19:12:09.494Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,45 @@
       "last_pushed_at": "2026-01-06T18:28:53.521Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-01-07T10:01:31.581Z",
+      "last_pushed_at": "2026-01-07T10:01:31.581Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-01-07T10:34:35.989Z",
+      "last_pushed_at": "2026-01-07T10:34:35.989Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-01-07T20:25:18.027Z",
+      "last_pushed_at": "2026-01-07T20:25:18.027Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
