@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:11:50.892Z",
+  "generated_at": "2026-11-03T19:11:52.885Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0109-implement-layer-normalization-for-sequence-data",
       "first_solved_at": "2025-12-23T11:15:30.902Z",
       "last_pushed_at": "2025-12-23T11:15:30.902Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-12-24T11:02:54.725Z",
+      "last_pushed_at": "2025-12-24T11:02:54.725Z",
       "language": "python",
       "lines": 9
     }
