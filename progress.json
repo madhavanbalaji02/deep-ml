@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:05.096Z",
+  "generated_at": "2026-11-03T19:12:07.296Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,97 @@
       "last_pushed_at": "2026-01-05T23:12:17.001Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-01-06T00:53:29.500Z",
+      "last_pushed_at": "2026-01-06T00:53:29.500Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-01-06T01:03:30.761Z",
+      "last_pushed_at": "2026-01-06T01:03:30.761Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:213": {
+      "kind": "problem",
+      "id": "213",
+      "title": "Bayesian Inference for Beta-Binomial Model",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/213",
+      "path": "problems/0213-bayesian-inference-for-beta-binomial-model",
+      "first_solved_at": "2026-01-06T12:34:53.644Z",
+      "last_pushed_at": "2026-01-06T12:34:53.644Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2026-01-06T17:58:00.326Z",
+      "last_pushed_at": "2026-01-06T17:58:00.326Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-01-06T18:05:26.397Z",
+      "last_pushed_at": "2026-01-06T18:05:26.397Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-01-06T18:15:22.076Z",
+      "last_pushed_at": "2026-01-06T18:15:22.076Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-01-06T18:28:53.521Z",
+      "last_pushed_at": "2026-01-06T18:28:53.521Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
