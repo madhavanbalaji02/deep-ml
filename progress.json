@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:12:03.063Z",
+  "generated_at": "2026-11-03T19:12:05.096Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,45 @@
       "last_pushed_at": "2026-01-04T23:05:38.525Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-01-05T10:21:04.354Z",
+      "last_pushed_at": "2026-01-05T10:21:04.354Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-01-05T22:56:59.115Z",
+      "last_pushed_at": "2026-01-05T22:56:59.115Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-01-05T23:12:17.001Z",
+      "last_pushed_at": "2026-01-05T23:12:17.001Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
