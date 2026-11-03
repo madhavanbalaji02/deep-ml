@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-12-21 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-21 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-12-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-12-23 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-12-22 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2025-12-22 | [solution](problems/0085-positional-encoding-calculator) |
 
